@@ -1,0 +1,38 @@
+1  "Laptop" Price: 1200.0 Stock: 50 Warranty: 2
+Value: 60000.0
+2  "Smartphone" Price: 800.0 Stock: 100 Warranty: 1
+Value: 80000.0
+3  "Tablet" Price: 600.0 Stock: 70 Warranty: 2
+Value: 42000.0
+4  "Car" Price: 20000.0 Stock: 10 Year: 2022 Fuel:  "Petrol" Mileage: 5000
+Value: 200000.0
+5  "Motorcycle" Price: 8000.0 Stock: 15 Year: 2021 Fuel:  "Petrol" Mileage: 8000
+Value: 120000.0
+6  "Truck" Price: 50000.0 Stock: 5 Year: 2020 Fuel:  "Diesel" Mileage: 20000
+Value: 250000.0
+7  "Chair" Price: 50.0 Stock: 200 Material:  "Wood" Weight: 5.0 kg
+Value: 10000.0
+8  "Table" Price: 150.0 Stock: 120 Material:  "Metal" Weight: 20.0 kg
+Value: 18000.0
+9  "Sofa" Price: 700.0 Stock: 60 Material:  "Fabric" Weight: 40.0 kg
+Value: 42000.0
+10  "Hammer" Price: 25.0 Stock: 300 Type:  "Hand Tool"
+Value: 7500.0
+11  "Drill" Price: 120.0 Stock: 150 Type:  "Power Tool"
+Value: 18000.0
+12  "Wrench" Price: 40.0 Stock: 250 Type:  "Hand Tool"
+Value: 10000.0
+Total inventory value: 857500.0
+
+Order of client1 contains:
+ "Laptop" Price: 1200.0 Quantity: 2
+ "Drill" Price: 120.0 Quantity: 5
+Order of client2 contains:
+ "Smartphone" Price: 800.0 Quantity: 3
+ "Chair" Price: 50.0 Quantity: 10
+Order of client3 contains:
+ "Car" Price: 20000.0 Quantity: 1
+ "Tablet" Price: 600.0 Quantity: 1
+client1 order final price: 3000.0
+client2 order final price: 2900.0
+client3 order final price: 20600.0

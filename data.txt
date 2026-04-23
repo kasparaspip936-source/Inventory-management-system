@@ -1,0 +1,20 @@
+
+Electronics,1, "Laptop", 1200, 50, 2
+Electronics,2, "Smartphone", 800, 100, 1
+Electronics,3, "Tablet", 600, 70, 2
+
+Vehicle,4, "Car", 20000, 10, 2022, "Petrol", 5000
+Vehicle,5, "Motorcycle", 8000, 15, 2021, "Petrol", 8000
+Vehicle,6, "Truck", 50000, 5, 2020, "Diesel", 20000
+
+Furniture,7, "Chair", 50, 200, "Wood", 5
+Furniture,8, "Table", 150, 120, "Metal", 20
+Furniture,9, "Sofa", 700, 60, "Fabric", 40
+
+Tool,10, "Hammer", 25, 300, "Hand Tool"
+Tool,11, "Drill", 120, 150, "Power Tool"
+Tool,12, "Wrench", 40, 250, "Hand Tool"
+
+Client,client1
+Client,client2
+Client,client3
